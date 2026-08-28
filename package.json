@@ -1,0 +1,13 @@
+{
+  "name": "true-salvation-military-chat",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Private community chat for The True Salvation and Deliverance Military",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "ws": "^8.18.0"
+  }
+}
