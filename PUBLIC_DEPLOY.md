@@ -9,10 +9,10 @@ The app is ready to deploy. Publishing is the step that gives people in differen
 3. Upload every file in this folder, including `Dockerfile`, `render.yaml`, `package.json`, `package-lock.json`, `server.js`, `index.html`, `styles.css`, and `script.js`.
 4. Create an account at https://render.com/ and choose **New > Blueprint**.
 5. Connect the GitHub repository.
-6. When Render asks for `ACCESS_CODE`, enter `2431`.
+6. When Render asks for `ACCESS_CODE`, enter `5431`.
 7. Click **Apply** and wait for the deploy to finish.
 8. Open the HTTPS URL Render gives you. That is the link you send to people in any country.
-9. Everyone enters `2431`.
+9. Everyone enters `5431`.
 
 The server terminal on your computer does not need to stay open after Render deploys it.
 

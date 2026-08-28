@@ -8,7 +8,7 @@ import { WebSocketServer } from 'ws';
 const root = path.dirname(fileURLToPath(import.meta.url));
 const port = Number(process.env.PORT) || 3000;
 const host = process.env.HOST || '0.0.0.0';
-const accessCode = process.env.ACCESS_CODE || '2431';
+const accessCode = process.env.ACCESS_CODE || '5431';
 const sessions = new Set();
 const clients = new Map();
 const history = [];

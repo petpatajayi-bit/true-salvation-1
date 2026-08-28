@@ -16,7 +16,7 @@ npm start
 
 5. Open http://localhost:3000 in the browser.
 6. Share the computer's local network address with trusted users on the same Wi-Fi, for example `http://192.168.1.20:3000`. Windows Firewall may ask you to allow Node.js on private networks; allow it.
-7. Everyone enters the access code `2431`.
+7. Everyone enters the access code `5431`.
 
 For users in different countries, use the deployment steps in `PUBLIC_DEPLOY.md` to put the server on an HTTPS host.
 

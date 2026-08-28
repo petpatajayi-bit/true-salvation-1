@@ -1,4 +1,4 @@
-const ACCESS_CONFIG = { code: '2431' };
+const ACCESS_CONFIG = { code: '5431' };
 const accessGate = document.querySelector('#access-gate');
 const accessForm = document.querySelector('#access-form');
 const accessInput = document.querySelector('#access-code');
